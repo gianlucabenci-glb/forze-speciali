@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Preparazione Forze Speciali",
+  "short_name": "Forze Speciali",
+  "description": "100 allenamenti a corpo libero per GL, F e G, con schede, timer e archivio.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f3",
+  "theme_color": "#eef2f3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
